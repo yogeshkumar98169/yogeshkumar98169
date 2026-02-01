@@ -1,4 +1,4 @@
-💫 About Me
+# 💫 About Me
 
 Hi there! I'm Yogesh, a passionate MERN Stack Developer who loves building intuitive, scalable, and high-performance web applications. I enjoy solving real-world problems through clean architecture and efficient code.
 
@@ -29,10 +29,11 @@ Git • GitHub • GitHub Actions • NPM • Vite • Webpack • Nodemon • F
 Web3.js • Scalable System Design
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=yogeshkumar98169&show_icons=true&theme=radical)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkumar98169&show_icons=true&theme=tokyonight)
 
 ## 💻 Top Languages
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkumar98169&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkumar98169&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
-![streak](https://streak-stats.demolab.com?user=yogeshkumar98169&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yogeshkumar98169&theme=tokyonight)
+
